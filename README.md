@@ -1,3 +1,3 @@
 # zmr227.github.io
 
-portfolio website with [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) starter
+[portfolio website](https://zmr227.github.io/) with [minimal mistakes](https://github.com/mmistakes/minimal-mistakes) starter
